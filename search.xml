@@ -8,7 +8,7 @@
       <link href="2020/11/30/hello-world/"/>
       <url>2020/11/30/hello-world/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>折腾了一天，终于把这个博客弄好了。该博客基于<code>HEXO</code>框架，采用的是<code>butterfly</code>这个主题，部署在<code>github.io</code>上。</p><p>立志成为嵌入式AI攻城狮，让机器拥有智能，造福世界！本站将开源个人的一些项目，希望能够共同交流，共同进步！</p>]]></content>
+        <content type="html"><![CDATA[<p>折腾了一天，终于把这个博客弄好了。该博客基于<code>HEXO</code>框架，采用的是<code>butterfly</code>这个主题，部署在<code>github.io</code>上。</p><p>立志成为嵌入式AI攻城狮，让机器拥有智能！</p><p>本站将开源个人的一些项目，希望能够共同交流，共同进步！</p>]]></content>
       
       
       
